@@ -1,0 +1,37 @@
+.summer{
+    background-color: #FBD17A;
+    height: 100vh;
+    width:100%;
+    padding-top: 200px;
+}
+.summer-title{
+    color:#122227;
+    font-size: 200px;
+
+    text-align: center;
+}
+.winter{
+    background-color: rgb(90, 185, 220);
+    height: 100vh;
+    width:100%;
+    padding-top: 200px;
+}
+.winter-title{
+    color:#122227;
+    font-size: 200px;
+    text-align: center;
+}
+.description{
+
+    color:#122227;
+    font-size: 60px;
+    text-align: center;
+}
+.big-icon-size{
+font-size: 100px!important;
+color:white;
+}
+.icon-container{
+margin: -30px auto;
+width: 100px;
+}
