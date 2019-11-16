@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-season-weather/static/css/main.bf5bb20e.chunk.css",
+    "main.js": "/react-season-weather/static/js/main.4d6a1fa7.chunk.js",
+    "main.js.map": "/react-season-weather/static/js/main.4d6a1fa7.chunk.js.map",
+    "runtime-main.js": "/react-season-weather/static/js/runtime-main.be26b285.js",
+    "runtime-main.js.map": "/react-season-weather/static/js/runtime-main.be26b285.js.map",
+    "static/js/2.73871404.chunk.js": "/react-season-weather/static/js/2.73871404.chunk.js",
+    "static/js/2.73871404.chunk.js.map": "/react-season-weather/static/js/2.73871404.chunk.js.map",
+    "index.html": "/react-season-weather/index.html",
+    "precache-manifest.5e9e2897a7a3c22049eed1ad0971399e.js": "/react-season-weather/precache-manifest.5e9e2897a7a3c22049eed1ad0971399e.js",
+    "service-worker.js": "/react-season-weather/service-worker.js",
+    "static/css/main.bf5bb20e.chunk.css.map": "/react-season-weather/static/css/main.bf5bb20e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be26b285.js",
+    "static/js/2.73871404.chunk.js",
+    "static/css/main.bf5bb20e.chunk.css",
+    "static/js/main.4d6a1fa7.chunk.js"
+  ]
+}
